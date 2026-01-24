@@ -25,25 +25,15 @@
     "tabs": [
       {
         "tab": "Untitled Tab",
-        "versions": [
+        "languages": [
           {
-            "version": "Untitled Version",
-            "languages": [
+            "language": "fr",
+            "groups": [
               {
-                "language": "fr",
-                "tabs": [
-                  {
-                    "tab": "Guides",
-                    "groups": [
-                      {
-                        "group": "Getting started",
-                        "pages": [
-                          "index",
-                          "development"
-                        ]
-                      }
-                    ]
-                  }
+                "group": "Getting started",
+                "pages": [
+                  "index",
+                  "development"
                 ]
               }
             ]
