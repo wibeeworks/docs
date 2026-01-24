@@ -54,15 +54,18 @@
                     ]
                   },
                   {
-                    "tab": "API reference",
-                    "pages": [
-                      "quickstart"
-                    ]
+                    "tab": "API reference"
                   }
                 ]
               }
             ]
           }
+        ]
+      },
+      {
+        "tab": "Nouveautés",
+        "pages": [
+          "quickstart"
         ]
       }
     ]
