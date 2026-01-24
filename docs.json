@@ -64,7 +64,7 @@
       },
       {
         "tab": "Nouveautés",
-        "icon": "mailbox-flag-up",
+        "icon": "bolt",
         "pages": [
           "whatsnew"
         ]
