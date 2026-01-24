@@ -64,8 +64,9 @@
       },
       {
         "tab": "Nouveautés",
+        "icon": "mailbox-flag-up",
         "pages": [
-          "quickstart"
+          "whatsnew"
         ]
       }
     ]
