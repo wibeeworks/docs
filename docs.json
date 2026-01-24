@@ -3,95 +3,76 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#0070cc",
+    "light": "#0070cc",
+    "dark": "#0070cc"
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
     "global": {
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "icon": "book-open-cover",
+          "href": "https://mintlify.com/docs"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "icon": "newspaper",
+          "href": "https://mintlify.com/blog"
         }
       ]
-    }
+    },
+    "tabs": [
+      {
+        "tab": "Untitled Tab",
+        "versions": [
+          {
+            "version": "Untitled Version",
+            "languages": [
+              {
+                "language": "fr",
+                "tabs": [
+                  {
+                    "tab": "Guides",
+                    "groups": [
+                      {
+                        "group": "Getting started",
+                        "pages": [
+                          "index",
+                          "development"
+                        ]
+                      },
+                      {
+                        "group": "AI tools",
+                        "pages": [
+                          "ai-tools/cursor",
+                          "ai-tools/claude-code",
+                          "ai-tools/windsurf"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tab": "API reference",
+                    "pages": [
+                      "quickstart"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
+  "logo": "/images/EDITWAGE-SQUARE3.png",
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:wibeecontact@gmail.com"
       }
     ],
     "primary": {
@@ -114,9 +95,24 @@
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/editwage/",
+      "discord": "https://discord.gg/mHNCvwpgct",
+      "website": "https://editwage.com/"
     }
+  },
+  "appearance": {
+    "strict": false,
+    "default": "dark"
+  },
+  "fonts": {
+    "family": "Inter"
+  },
+  "integrations": {
+    "ga4": {
+      "measurementId": "G-SFE8XNXG6Q"
+    }
+  },
+  "metadata": {
+    "timestamp": false
   }
 }
