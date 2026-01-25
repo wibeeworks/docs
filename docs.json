@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "willow",
-  "name": "Mint Starter Kit",
+  "name": "EditWage Documentation",
   "colors": {
     "primary": "#0070cc",
     "light": "#0070cc",
@@ -41,7 +41,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:wibeecontact@gmail.com"
+        "href": "mailto:contact@editwage.com"
       }
     ],
     "primary": {
@@ -83,5 +83,14 @@
   },
   "metadata": {
     "timestamp": false
+  },
+  "favicon": "/images/EDITWAGE-SQUARE3.png",
+  "seo": {
+    "indexing": "all"
+  },
+  "errors": {
+    "404": {
+      "title": "Oops... We're lost (404)"
+    }
   }
 }
