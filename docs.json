@@ -8,23 +8,10 @@
     "dark": "#0070cc"
   },
   "navigation": {
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Documentation",
-          "icon": "book-open-cover",
-          "href": "https://mintlify.com/docs"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
-        }
-      ]
-    },
     "tabs": [
       {
-        "tab": "Untitled Tab",
+        "tab": "Documentation",
+        "icon": "folder-bookmark",
         "languages": [
           {
             "language": "fr",
