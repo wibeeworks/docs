@@ -14,10 +14,24 @@
         "icon": "folder-bookmark",
         "languages": [
           {
-            "language": "fr",
+            "language": "en",
+            "default": true,
+            "hidden": true,
             "groups": [
               {
                 "group": "Getting started",
+                "pages": [
+                  "documentation/fr/getting-started/untitled-page-copied-1",
+                  "index-copied-1"
+                ]
+              }
+            ]
+          },
+          {
+            "language": "fr",
+            "groups": [
+              {
+                "group": "Débuter",
                 "pages": [
                   "documentation/fr/getting-started/untitled-page",
                   "index"
