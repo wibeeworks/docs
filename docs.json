@@ -106,5 +106,21 @@
     "404": {
       "title": "Oops... We're lost (404)"
     }
+  },
+  "banner": {
+    "dismissible": true,
+    "content": "Besoin d'aide ? Nous y sommes !"
+  },
+  "background": {
+    "color": {
+      "dark": "#222A38"
+    }
+  },
+  "description": "Besoin d'aide ? Nous y sommes !",
+  "search": {
+    "prompt": "Chercher ou demander..."
+  },
+  "interaction": {
+    "drilldown": false
   }
 }
