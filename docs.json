@@ -14,21 +14,8 @@
         "icon": "folder-bookmark",
         "languages": [
           {
-            "language": "en",
-            "default": true,
-            "hidden": true,
-            "groups": [
-              {
-                "group": "Getting started",
-                "pages": [
-                  "documentation/fr/getting-started/untitled-page-copied-1",
-                  "index-copied-1"
-                ]
-              }
-            ]
-          },
-          {
             "language": "fr",
+            "default": true,
             "groups": [
               {
                 "group": "Débuter",
