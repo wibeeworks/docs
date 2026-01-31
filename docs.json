@@ -20,15 +20,15 @@
               {
                 "group": "Accélerer",
                 "pages": [
-                  "documentation/fr/accelerer/affiliation",
-                  "documentation/fr/debuter/affiliation"
+                  "documentation/fr/accelerer/affiliation"
                 ]
               },
               {
                 "group": "Débuter",
                 "pages": [
-                  "docs/fr/start/prices",
-                  "certificates"
+                  "documentation/fr/debuter/history",
+                  "documentation/fr/debuter/comment-nous-calculons-nos-tarifs",
+                  "index"
                 ]
               }
             ]
